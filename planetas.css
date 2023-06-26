@@ -23,3 +23,9 @@ h3{
 li{
 color:#FFF0F5;
 }
+@media screen and (max-width:450px){
+ body{
+    font-size:30px;
+    background-size: 100%;
+ }
+}
