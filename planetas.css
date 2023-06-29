@@ -1,4 +1,10 @@
-background: #9370DB url("images(3).jpg")
+html {
+   min-height: 100%;
+   background-image: url(images(3).jpg);
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-position: center center;
+}
 
 
 body{
